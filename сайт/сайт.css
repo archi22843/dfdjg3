@@ -1,0 +1,35 @@
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+div{
+  height: 150px;
+  width: 150px;
+  background-color: red;
+  text-align: center;
+  line-height: 150px;
+  border-radius: 20px;
+  float: left;
+  margin-left: 100px;
+}
+#ert{
+  height: 150px;
+  width: 150px;
+  background-color: red;
+  text-align: center;
+  line-height: 150px;
+  border-radius: 20px;
+  float: right;
+  margin-right: 100px;
+
+}
+#ert:hover{
+  background-color: blue;
+  color: red;
+}
+div:hover{
+  background-color: blue;
+  color: red;
+}
